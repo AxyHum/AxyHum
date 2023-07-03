@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on AxyTradingTools<br>🌱 I’m currently learning Vue.js for laravel<br>
+💻 I'm French Full-Stack Developper<br>
+🔭 I’m currently working on AxyTradingTools - Trading Tools for pro traders<br>
+🌱 I’m currently learning Vue.js for laravel<br>
 
 
 ## 🌐 Socials:
